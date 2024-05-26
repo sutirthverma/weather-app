@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 
 Functionality:
 - Displays current weather information for a user-specified location.
